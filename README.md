@@ -1,7 +1,5 @@
 # Weather App
 
-![Weather App Logo](https://your-logo-url.com/logo.png)
-
 A simple and user-friendly weather application that allows users to view weather information based on their location or search for a specific city. Built with HTML, CSS, and JavaScript, this app utilizes the OpenWeatherMap API for weather data.
 
 ## Features
