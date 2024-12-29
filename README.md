@@ -1,6 +1,6 @@
 # Weather App
 
-# **Deployment Link:https://crystalclearsky.netlify.app/**
+# **Deployment Link:https://crystalclearsky.netlify.app**
 
 A simple and user-friendly weather application that allows users to view weather information based on their location or search for a specific city. Built with HTML, CSS, and JavaScript, this app utilizes the OpenWeatherMap API for weather data.
 
